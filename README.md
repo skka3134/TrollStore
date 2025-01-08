@@ -26,7 +26,7 @@ Alfie，巨魔商店的官方开发者，倾力打造了这款 TrollInstallerX �
 
 **加入巨魔商店交流群，获取更多帮助和资讯：**
 
-* [巨魔交流群](https://t.me/bmyuan)
+* [IOS软件源](https://bmy.sk3.us.kg/)
 
 ---
 
