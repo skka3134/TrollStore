@@ -113,23 +113,7 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
 
 ---
 
-## Ⅲ. 多巴胺 (Dopamine 2.0) 越狱指南 💉
-
-对于追求更高系统权限和自定义自由度的用户，Dopamine 2.0 是一款稳定且强大的越狱工具，适用于 iOS 15.0 - 16.6.1 系统。
-
-<p align="center">
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/CqwzFPUx3csLicMGRZMuicQ6jy6qJ8uF1Q1EAvx9PKIH44ozTNBUqWLR7jkt1oicc8icWgdKkVt26Q2Z06kl5rPu1w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="Dopamine" width="400"/>
-</p>
-
-*   **详细教程**: [多巴胺二代 iOS 15.0 - 16.6.1 越狱指南](https://mp.weixin.qq.com/s?__biz=Mzg5OTgzNTgxNQ==&mid=2247501067&idx=1&sn=6f9f9593c45d306abefb8665ff2a4d56&chksm=c04fb7c3f7383ed5578eac45c7e117b981304dbcb03a110f6357ff8010903dda572e6aa1d082)
-*   **推荐越狱源**:
-<p align="center">
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/CqwzFPUx3csLicMGRZMuicQ6jy6qJ8uF1QrOJpPkicqoKTBucec9DtlYcF0mFsRxnHgv2qZsQcoHJXUhofSvent5w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="Sileo Sources" width="400"/>
-</p>
-
----
-
-## Ⅳ. 实用巨魔工具推荐 🛠️
+## Ⅲ. 实用巨魔工具推荐 🛠️
 
  TrollRecorder - 通话录音神器
 
