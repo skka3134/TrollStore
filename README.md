@@ -78,42 +78,9 @@ TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用
 | iPad (第八代) / mini (第五代) | A12 Bionic | `arm64e` |
 | iPad mini (第六代) | A15 Bionic | `arm64e` |
 
-### 官方资源与教程
-
-*   **官方发布页**: [TrollStore Releases on GitHub](https://github.com/opa334/TrollStore/releases)
-*   **新手安装教程**: [查看巨魔二代安装教程](https://mp.weixin.qq.com/s?__biz=Mzg5OTgzNTgxNQ==&mid=2247498844&idx=1&sn=b497c933929829ae3775bfd5f9db2294&chksm=c04f8e94f73807822aff9f55a5abad8fb493a7a1a87e7fa3d3cc9e602d1ea5f2695419e25b92)
-*   **综合使用指南**: [查看 iOS 巨魔使用教程](https://mp.weixin.qq.com/s?__biz=Mzg5OTgzNTgxNQ==&mid=2247502087&idx=2&sn=1589cda6d67b180880ff0ead7b55243d&chksm=c04fbbcff73832d9879f15d608c574e7b90561069feaafc7bfc6022f210dc87cd309d5e0795f)
-
 ---
 
-## Ⅱ. Misaka - 巨魔安装 & 系统美化利器 ✨
-
-Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞，让非越狱用户也能实现丰富的个性化设置。同时，它也是安装 TrollStore 的重要辅助工具之一。
-
-<p align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1157757093097521162/1181224754993184848/App_Store-removebg-preview.png" alt="misaka" style="border-radius: 10px;"/>
-</p>
-
-### Misaka 支持版本一览
-
-| iOS 版本范围 | MDC 漏洞 | KFD 漏洞 |
-| :--- | :---: | :---: |
-| 15.0 - 15.7.1 | ✅ | - |
-| 15.7.2 - 15.7.6 | - | ✅ |
-| 16.0 - 16.1.2 | ✅ | - |
-| 16.2 - 16.6 beta 1| - | ✅ |
-| 17.0 & 以上 | - | - |
-
-> ⚠️ **警告**: Misaka 是一款免费应用，请勿从任何非官方渠道购买。
-
-### 下载与安装
-
-*   **IPA 下载**: [从 GitHub 下载最新版 Misaka](https://github.com/straight-tamago/misaka/releases/latest)
-*   **官方教程**: [如何使用 Misaka 安装 TrollStore](https://ios.cfw.guide/installing-trollhelper-misaka/)
-
----
-
-## Ⅲ. 实用巨魔工具推荐 🛠️
+## Ⅱ. 实用巨魔工具推荐 🛠️
 
  TrollRecorder - 通话录音神器
 
