@@ -24,7 +24,25 @@ TrollStore 是一款革命性的工具，它利用了苹果的系统漏洞，让
 *   🔴 **不支持**: iOS 16.7 - 16.7.5 （因缺少必要漏洞）
 *   🔴 **不支持**: iOS 17.0.1 及更高版本
 > **注意**: iOS 17.0 beta 1-5 理论上支持，但目前成功率不高，可以尝试。
+好的，这是从您提供的HTML代码中提取并转换成Markdown格式的表格：
 
+| From | To | arm64 (A8) | arm64 (A9-A11) | arm64e (A12-A17/M1-M2) |
+| :---: | :---: | :---: | :---: | :---: |
+| **14.0 beta 1 and earlier** | | **Unsupported** | | |
+| **14.0 beta 2** | **14.8.1** | [TrollInstallerX](/installing-trollstore-trollinstallerx) | | [TrollHelperOTA](/installing-trollstore-trollhelperota) |
+| **15.0** | **15.5 beta 4** | [TrollHelperOTA](/installing-trollstore-trollhelperota) | | |
+| **15.5** | **15.5** | [TrollInstallerMDC](/installing-trollstore-trollinstallermdc) | [TrollInstallerX](/installing-trollstore-trollinstallerx) | [TrollHelperOTA](/installing-trollstore-trollhelperota) |
+| **15.6 beta 1** | **15.6 beta 3** | [TrollHelperOTA](/installing-trollstore-trollhelperota) | | |
+| **15.6 beta 4** | **15.6.1** | [TrollInstallerMDC](/installing-trollstore-trollinstallermdc) | [TrollInstallerX](/installing-trollstore-trollinstallerx) | [TrollHelperOTA](/installing-trollstore-trollhelperota) |
+| **15.7** | **15.7.1** | [TrollInstallerMDC](/installing-trollstore-trollinstallermdc) | [TrollInstallerX](/installing-trollstore-trollinstallerx) | |
+| **15.7.2** | **15.8.4** | [TrollMisaka](/installing-trollstore-trollmisaka) | [TrollInstallerX](/installing-trollstore-trollinstallerx) | |
+| **16.0 beta 1** | **16.0 beta 3** | Not Applicable | [TrollInstallerX](/installing-trollstore-trollinstallerx) | [TrollHelperOTA](/installing-trollstore-trollhelperota) |
+| **16.0 beta 4** | **16.6.1** | Not Applicable | [TrollInstallerX](/installing-trollstore-trollinstallerx) | |
+| **16.7 RC** | **16.7 RC** | Not Applicable | [TrollRestore](/installing-trollstore-trollrestore) | |
+| **16.7** | **16.7.11** | Not Applicable | Unsupported | |
+| **17.0 beta 1** | **17.0 beta 4** | Not Applicable | [TrollInstallerX](/installing-trollstore-trollinstallerx) | **[TrollRestore](/installing-trollstore-trollrestore)** |
+| **17.0 beta 5** | **17.0** | Not Applicable | [TrollRestore](/installing-trollstore-trollrestore) | |
+| **17.0.1 and later** | | Not Applicable | **Unsupported** | |
 ### 官方资源与教程
 
 *   **官方 GitHub 发布页**: [TrollStore Releases](https://github.com/opa334/TrollStore/releases)
