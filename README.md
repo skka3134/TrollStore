@@ -133,8 +133,7 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
 
  TrollRecorder - 通话录音神器
 
-一款由国人开发的纯巨魔版通话录音工具，无需越狱即可使用，核心功能完全免费。
-
+*   一款由国人开发的纯巨魔版通话录音工具，无需越狱即可使用，核心功能完全免费。
 *   支持系统: iOS 15.0 - 16.6.1 及 17.0
 *   核心功能:
     *   美观简洁的 UI 界面，操作直观。
@@ -147,12 +146,12 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
 
  TrollSpeed - 状态栏网速显示
 
-在状态栏实时显示当前上传/下载网速，让你对网络状况了如指掌。
+*   在状态栏实时显示当前上传/下载网速，让你对网络状况了如指掌。
+*   下载地址: [GitHub 下载](https://github.com/Lessica/TrollSpeed)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5410705/213263734-1ef1b553-88d4-41cc-856e-891ea08d185c.jpeg" alt="TrollSpeed" width="400"/>
 </p>
 
-*   下载地址: [GitHub 下载](https://github.com/Lessica/TrollSpeed)
 
 ---
