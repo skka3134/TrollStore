@@ -200,21 +200,3 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
 *   **项目地址**: [debugserver_azj on GitHub](https://github.com/lich4/debugserver_azj)
 
 ---
-
-## Ⅵ. 技术细节：TrollStore 背后的漏洞 🔬
-
-TrollStore 的实现依赖于一个核心的 CoreTrust 漏洞 **CVE-2023-41991**，该漏洞允许恶意应用绕过系统的签名验证。苹果公司已经意识到此漏洞，并在后续的系统版本中进行了修复。
-
-*   **漏洞详情**: [GHSA-fj3m-2r8f-m4x9](https://github.com/advisories/GHSA-fj3m-2r8f-m4x9)
-*   **NVD 记录**: [CVE-2023-41991](https://nvd.nist.gov/vuln/detail/CVE-2023-41991)
-*   **修复版本**: 已在 iOS `16.7`, iOS `17.0.1` 及更高版本中被修复。
-
----
-
-> ### **寻求帮助与支持**
->
-> 如果在操作过程中遇到任何问题，可以关注公众号 **Cydiapps** 获取最新的教程和帮助。
->
-> <p align="center">
->  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/CqwzFPUx3ctlvhiaKFaaIwemTHgsib2zcTsXNvRxq9NGzEMQOUibFfKKvhuaC0U5SYLOV15EhjCLcvtruYkiaa6ang/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="Cydiapps QR Code" width="200"/>
-> </p>
