@@ -8,8 +8,6 @@
 
 TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用户可以永久签名并安装任何 IPA 应用，彻底告别证书过期和应用掉签的烦恼。
 
-![TrollStore Logo](https://mmbiz.qpic.cn/mmbiz_png/CqwzFPUx3cud7OvxDicIWBuNNtBsBRYcmlhwlIicibo0P9ia82gcL3GjQqHicFfe8tANSAmKE7vHdvNa5ibfeib6bRuog/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ### 核心优势
 
 *   ✅ **完全免费**：无需支付任何费用。
@@ -30,7 +28,7 @@ TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用
 
 这张表格详细列出了不同系统版本和设备芯片对应的最佳安装方法。
 
-| 系统版本 (From) | 系统版本 (To) | arm64 (A8) | arm64 (A9-A11) | arm64e (A12-A17/M1-M2) |
+| 系统版本 (From) | 系统版本 (To) | A8 | A9-A11 | A12-A17/M1-M2 |
 | :---: | :---: | :---: | :---: | :---: |
 | **14.0 beta 1 and earlier** | | <font color="red">**Unsupported**</font> | | |
 | **14.0 beta 2** | **14.8.1** | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) |
@@ -50,33 +48,33 @@ TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用
 
 ### 设备型号与芯片架构速查表
 
-**iPhone**
-| 手机型号 | 芯片 | 架构 |
-| :--- | :--- | :---: |
-| iPhone 15 Pro / Pro Max | A17 Pro | `arm64e` |
-| iPhone 15 / 15 Plus | A16 Bionic | `arm64e` |
-| iPhone 14 Pro / Pro Max | A16 Bionic | `arm64e` |
-| iPhone 14 / 14 Plus | A15 Bionic | `arm64e` |
-| iPhone SE (第三代) | A15 Bionic | `arm64e` |
-| iPhone 13 全系列 | A15 Bionic | `arm64e` |
-| iPhone 12 全系列 | A14 Bionic | `arm64e` |
-| iPhone SE (第二代) | A13 Bionic | `arm64e` |
-| iPhone 11 全系列 | A13 Bionic | `arm64e` |
-| iPhone XS / XS Max / XR | A12 Bionic | `arm64e` |
-| iPhone X / 8 / 8 Plus | A11 Bionic | `arm64` |
-| iPhone 7 / 7 Plus | A10 Fusion | `arm64` |
-| iPhone SE (第一代) / 6S | A9 | `arm64` |
-| iPhone 6 / 6 Plus | A8 | `arm64` |
+iPhone
+| 手机型号 | 芯片 |
+| :--- | :---: |
+| iPhone 15 Pro / Pro Max | A17 |
+| iPhone 15 / 15 Plus | A16 |
+| iPhone 14 Pro / Pro Max | A16 |
+| iPhone 14 / 14 Plus | A15 |
+| iPhone SE (第三代) | A15 |
+| iPhone 13 全系列 | A15 |
+| iPhone 12 全系列 | A14 |
+| iPhone SE (第二代) | A13 |
+| iPhone 11 全系列 | A13 |
+| iPhone XS / XS Max / XR | A12 |
+| iPhone X / 8 / 8 Plus | A11 |
+| iPhone 7 / 7 Plus | A10 |
+| iPhone SE (第一代) / 6S | A9 |
+| iPhone 6 / 6 Plus | A8 |
 
-**iPad**
-| 平板型号 | 芯片 | 架构 |
-| :--- | :--- | :---: |
-| iPad Pro (M2) | M2 | `arm64e` |
-| iPad Pro (M1) / Air (第五代) | M1 | `arm64e` |
-| iPad Air (第四代) / iPad (第十代) | A14 Bionic | `arm64e` |
-| iPad (第九代) | A13 Bionic | `arm64e` |
-| iPad (第八代) / mini (第五代) | A12 Bionic | `arm64e` |
-| iPad mini (第六代) | A15 Bionic | `arm64e` |
+iPad
+| 平板型号 | 芯片 |
+| :--- | :---: |
+| iPad Pro (M2) | M2 |
+| iPad Pro (M1) / Air (第五代) | M1 |
+| iPad Air (第四代) / iPad (第十代) | A14 |
+| iPad (第九代) | A13 |
+| iPad (第八代) / mini (第五代) | A12 |
+| iPad mini (第六代) | A15 |
 
 ---
 
