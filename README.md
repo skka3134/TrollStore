@@ -12,6 +12,9 @@
 > &emsp;&emsp;一键导入全能签，轻松实现应用自签安装  
 > &emsp;&emsp;🔗 [http://ios.3web.top/appstore](http://ios.3web.top/appstore)
 
+> **💬 电报频道分享**  
+> &emsp;&emsp;Telegram频道每日分享精选IPA资源，即时获取最新应用  
+> &emsp;&emsp;🔗 [https://t.me/ipa3web ](https://t.me/ipa3web )
 ---
 
 # 🎭 iOS 巨魔 (TrollStore) & 越狱工具终极指南
