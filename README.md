@@ -49,21 +49,21 @@ TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用
 
 | 起始版本 | 截止版本 | A8芯片 | A9-A11芯片 | A12-A17/M1-M2芯片 |
 | :--- | :--- | :--- | :--- | :--- |
-| 14.0 beta 1 及更早 | - | <font color="red">不支持</font> | - | - |
-| 14.0 beta 2 | 14.8.1 | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | - | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) |
-| 15.0 | 15.5 beta 4 | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) | - | - |
-| 15.5 | 15.5 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) |
-| 15.6 beta 1 | 15.6 beta 3 | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) | - | - |
-| 15.6 beta 4 | 15.6.1 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) |
-| 15.7 | 15.7.1 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | - |
-| 15.7.2 | 15.8.4 | [TrollMisaka](https://ios.cfw.guide/installing-trollstore-trollmisaka) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | - |
-| 16.0 beta 1 | 16.0 beta 3 | N/A | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota) |
-| 16.0 beta 4 | 16.6.1 | N/A | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | - |
-| 16.7 RC | 16.7 RC | N/A | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore) | - |
-| 16.7 | 16.7.11 | N/A | <font color="red">不支持</font> | - |
-| 17.0 beta 1 | 17.0 beta 4 | N/A | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx) | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore) |
-| 17.0 beta 5 | 17.0 | N/A | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore) | - |
-| 17.0.1 及更高版本 | - | N/A | <font color="red">不支持</font> | - |
+| 14.0 beta 1 及更早 | - | <font color="red">不支持</font> | <font color="red">不支持</font> | <font color="red">不支持</font> |
+| 14.0 beta 2 | 14.8.1 | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 15.0 | 15.5 beta 4 | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 15.5 | 15.5 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 15.6 beta 1 | 15.6 beta 3 | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 15.6 beta 4 | 15.6.1 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 15.7 | 15.7.1 | [TrollInstallerMDC](https://ios.cfw.guide/installing-trollstore-trollinstallermdc ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) |
+| 15.7.2 | 15.8.4 | [TrollMisaka](https://ios.cfw.guide/installing-trollstore-trollmisaka ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) |
+| 16.0 beta 1 | 16.0 beta 3 | <font color="red">不支持</font> | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollHelperOTA](https://ios.cfw.guide/installing-trollstore-trollhelperota ) |
+| 16.0 beta 4 | 16.6.1 | <font color="red">不支持</font> | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) |
+| 16.7 RC | 16.7 RC | <font color="red">不支持</font> | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore ) | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore ) |
+| 16.7 | 16.7.11 | <font color="red">不支持</font> | <font color="red">不支持</font> | <font color="red">不支持</font> |
+| 17.0 beta 1 | 17.0 beta 4 | <font color="red">不支持</font> | [TrollInstallerX](https://ios.cfw.guide/installing-trollstore-trollinstallerx ) | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore ) |
+| 17.0 beta 5 | 17.0 | <font color="red">不支持</font> | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore ) | [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore ) |
+| 17.0.1 及更高版本 | - | <font color="red">不支持</font> | <font color="red">不支持</font> | <font color="red">不支持</font> |
 
 ### 📱 设备型号与芯片架构速查表
 
