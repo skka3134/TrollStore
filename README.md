@@ -135,15 +135,15 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
 
 一款由国人开发的纯巨魔版通话录音工具，无需越狱即可使用，核心功能完全免费。
 
-*   **支持系统**: iOS 15.0 - 16.6.1 及 17.0
-*   **核心功能**:
+*   支持系统: iOS 15.0 - 16.6.1 及 17.0
+*   核心功能:
     *   美观简洁的 UI 界面，操作直观。
     *   支持微信、QQ 等主流社交应用的通话录音。
     *   可设置通话自动录音。
     *   支持生物识别（面容/指纹）加密。
     *   支持记录录音时的地理位置。
-*   **免费版**: [GitHub 下载](https://github.com/Lessica/TrollRecorder)
-*   **高级版**: [Havoc 商店链接](https://havoc.app/package/trollrecorder) (解锁更多高级功能)
+*   免费版: [GitHub 下载](https://github.com/Lessica/TrollRecorder)
+*   高级版: [Havoc 商店链接](https://havoc.app/package/trollrecorder) (解锁更多高级功能)
 
 ### TrollSpeed - 状态栏网速显示
 
@@ -153,50 +153,6 @@ Misaka 是一款强大的 iOS 系统定制工具，它利用 KFD 和 MDC 漏洞�
   <img src="https://user-images.githubusercontent.com/5410705/213263734-1ef1b553-88d4-41cc-856e-891ea08d185c.jpeg" alt="TrollSpeed" width="400"/>
 </p>
 
-*   **下载地址**: [GitHub 下载](https://github.com/Lessica/TrollSpeed)
-
----
-
-## Ⅴ. 开发者与进阶指南 👨‍💻
-
-### Theos 开发环境安装 (macOS)
-
-对于希望开发越狱插件的开发者，以下是在 macOS 上配置 Theos 环境的简要步骤。
-
-1.  **安装 Homebrew**:
-    访问官网 [https://brew.sh](https://brew.sh) 获取并执行安装命令。
-
-2.  **安装 ldid 和 dpkg**:
-    ```bash
-    brew install ldid fakeroot dpkg
-    ```
-    > **提示**: 如果 `dpkg` 安装失败，可尝试更换 Homebrew 镜像源或手动解决依赖问题。
-
-3.  **克隆 Theos 仓库**:
-    ```bash
-    sudo git clone --recursive https://github.com/theos/theos.git /opt/theos
-    ```
-
-4.  **修改目录权限**:
-    ```bash
-    sudo chown -R $(id -u):$(id -g) /opt/theos
-    ```
-
-5.  **配置环境变量**:
-    编辑 `~/.zshrc` (或 `~/.bash_profile`) 文件，添加以下内容：
-    ```bash
-    export THEOS=/opt/theos
-    export PATH=/opt/theos/bin/:$PATH
-    ```
-    然后执行 `source ~/.zshrc` 使配置立即生效。
-
-6.  **验证安装**:
-    在终端运行 `nic.pl` 命令，如果成功显示模板列表，则表示 Theos 环境已安装成功。
-
-### Xcode 调试插件推荐
-
-**debugserver_azj**: 一款强大的 Xcode 插件，支持调试任意第三方签名的 App 或系统进程，并能方便地查看任意 App 的界面布局。
-
-*   **项目地址**: [debugserver_azj on GitHub](https://github.com/lich4/debugserver_azj)
+*   下载地址: [GitHub 下载](https://github.com/Lessica/TrollSpeed)
 
 ---
