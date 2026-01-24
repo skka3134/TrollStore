@@ -113,13 +113,4 @@ TrollStore 是一款革命性的工具，它利用苹果的系统漏洞，让用
 在状态栏实时显示当前上传/下载网速，让你对网络状况了如指掌。
 
 **下载地址**: [GitHub 官方下载](https://github.com/Lessica/TrollSpeed)
-
-# 🎭 更多推荐
-> **📶 流量卡办理**
-> &emsp;&emsp;在线办理大流量手机卡，套餐多样，高速稳定  
-> &emsp;&emsp;🔗 [https://h5.lot-ml.com/ProductEn/Index/70fedaf6239f2173](https://h5.lot-ml.com/ProductEn/Index/70fedaf6239f2173)
-
-> **🚀 顶级机场**  
-> &emsp;&emsp;安全稳定的服务，行业NO.1
-> &emsp;&emsp;🔗 [https://naiixi.com/signupbyemail.aspx?MemberCode=b2f3ab200e774fd5b921e274669c900420251030144409](https://naiixi.com/signupbyemail.aspx?MemberCode=b2f3ab200e774fd5b921e274669c900420251030144409)
 ---
